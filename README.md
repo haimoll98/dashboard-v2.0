@@ -1,5 +1,9 @@
 # 🧑‍💻 Mollid Dev | Dashboard V2.0
 
+---
+
+### 🖼️ Screenshot
+
 ![](./public/dashboard-v2.0.png)
 
 
